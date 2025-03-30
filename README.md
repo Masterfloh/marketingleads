@@ -28,7 +28,7 @@ Ensure the setting is a bright, airy kitchen with natural light streaming throug
 The image should exude health, vitality and premium quality, highlighting both the woman's radiant complexion and the professional packaging of the supplement.
 ```
 
-![Ultra-realistic woman holding ExoGreens](https://i.ibb.co/7djfgMY8/raw.png=600x750)  
+![Ultra-realistic woman holding ExoGreens](https://i.ibb.co/7djfgMY8/raw.png=300x400)  
 
 ---
 
@@ -44,8 +44,8 @@ Reproduce this ad using the "[Product name]" product image attached. Set the hea
 Reproduce this ad using the attached Audi product image. Set the headline to "Progress Through Technology". Set the subheadline in Italics to "Experience the future of driving today." Ensure the overall design aligns with the original BMW ad's style but incorporates Audi's brand identity and aesthetic principles.
 ```
 
-![Original BMW Ad](https://i.ibb.co/NgK2x9mM/P90223918-weiter-der-revolutionaere-bmw-i3-jetzt-mit-deutlich-mehr-reichweite-07-2016-600px.jpg =600x400)  
-![Audi Ad Reproduction](https://openai.com/content/images/2022/05/chatgpt-icon.png =600x400)  
+![Original BMW Ad](https://i.ibb.co/NgK2x9mM/P90223918-weiter-der-revolutionaere-bmw-i3-jetzt-mit-deutlich-mehr-reichweite-07-2016-600px.jpg=400x200)  
+![Audi Ad Reproduction](https://openai.com/content/images/2022/05/chatgpt-icon.png=400x200)  
 
 ---
 
@@ -71,15 +71,15 @@ Create a photorealistic version of the attached product mockup for [Product Name
 
 | Final Product vs. 3D Render |  
 |-----------------------------|  
-![Final Product](https://i.ibb.co/SX879Fzh/final.jpg =600x400) | ![3D Render](https://i.ibb.co/W4gGxXrc/IMG-1693.jpg =600x400)  
+![Final Product](https://i.ibb.co/SX879Fzh/final.jpg=400x200) | ![3D Render](https://i.ibb.co/W4gGxXrc/IMG-1693.jpg3=400x200)  
 
 | Product Example vs. Final Version |  
 |----------------------------------|  
-![Product Example](https://i.ibb.co/2303GN3j/IMG-1694.jpg =600x400) | ![Product Final](https://i.ibb.co/NdmWY0zc/efuibesf.jpg =600x400)  
+![Product Example](https://i.ibb.co/2303GN3j/IMG-1694.jpg=400x200) | ![Product Final](https://i.ibb.co/NdmWY0zc/efuibesf.jpg=400x200)  
 
 | Product Mockup |  
 |---------------|  
-![Product Mockup](https://i.ibb.co/zTMbvN5h/IMG-1698.jpg =600x400)  
+![Product Mockup](https://i.ibb.co/zTMbvN5h/IMG-1698.jpg=400x200)  
 
 ---
 
