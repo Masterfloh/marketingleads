@@ -45,7 +45,7 @@ Reproduce this ad using the attached Audi product image. Set the headline to "Pr
 ```
 
 ![Original BMW Ad](https://i.ibb.co/NgK2x9mM/P90223918-weiter-der-revolutionaere-bmw-i3-jetzt-mit-deutlich-mehr-reichweite-07-2016-600px.jpg=400x200)  
-![Audi Ad Reproduction](https://openai.com/content/images/2022/05/chatgpt-icon.png=400x200)  
+![Audi Ad Reproduction](https://i.ibb.co/4nz1PBHK/Download-1.jpg=400x200)  
 
 ---
 
@@ -69,17 +69,13 @@ Create a photorealistic version of the attached product mockup for [Product Name
 
 ### Product Visualization Examples  
 
-| Final Product vs. 3D Render |  
+| Final Product vs. 3D Render & Produktbild |  
 |-----------------------------|  
-![Final Product](https://i.ibb.co/SX879Fzh/final.jpg=400x200) | ![3D Render](https://i.ibb.co/W4gGxXrc/IMG-1693.jpg3=400x200)  
+![Final Product](https://i.ibb.co/SX879Fzh/final.jpg=300x100) | ![3D Render](https://i.ibb.co/W4gGxXrc/IMG-1693.jpg3=300x100) | [Product Example](https://i.ibb.co/2303GN3j/IMG-1694.jpg=300x100)
 
 | Product Example vs. Final Version |  
 |----------------------------------|  
-![Product Example](https://i.ibb.co/2303GN3j/IMG-1694.jpg=400x200) | ![Product Final](https://i.ibb.co/NdmWY0zc/efuibesf.jpg=400x200)  
-
-| Product Mockup |  
-|---------------|  
-![Product Mockup](https://i.ibb.co/zTMbvN5h/IMG-1698.jpg=400x200)  
+![Product Example](https://i.ibb.co/zTMbvN5h/IMG-1698.jpg=400x200) | ![Product Final](https://i.ibb.co/NdmWY0zc/efuibesf.jpg=300x100)  
 
 ---
 
