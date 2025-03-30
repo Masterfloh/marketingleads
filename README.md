@@ -28,7 +28,7 @@ Ensure the setting is a bright, airy kitchen with natural light streaming throug
 The image should exude health, vitality and premium quality, highlighting both the woman's radiant complexion and the professional packaging of the supplement.
 ```
 
-![Ultra-realistic woman holding ExoGreens](https://i.ibb.co/7djfgMY8/raw.png =600x750)  
+![Ultra-realistic woman holding ExoGreens](https://i.ibb.co/7djfgMY8/raw.png=600x750)  
 
 ---
 
