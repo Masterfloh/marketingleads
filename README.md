@@ -44,9 +44,10 @@ Reproduce this ad using the "[Product name]" product image attached. Set the hea
 Reproduce this ad using the attached Audi product image. Set the headline to "Progress Through Technology". Set the subheadline in Italics to "Experience the future of driving today." Ensure the overall design aligns with the original BMW ad's style but incorporates Audi's brand identity and aesthetic principles.
 ```
 
-![Original BMW Ad](https://i.ibb.co/NgK2x9mM/P90223918-weiter-der-revolutionaere-bmw-i3-jetzt-mit-deutlich-mehr-reichweite-07-2016-600px.jpg=400x200)  
-![Audi Ad Reproduction](https://i.ibb.co/4nz1PBHK/Download-1.jpg=400x200)  
-![Ergebnis](https://i.ibb.co/DDbvq0D3/ae60a6cf-8a62-4b9f-9889-881691d1b10c.png)  
+| | | |
+|-|-|-|
+| ![Original BMW Ad](https://i.ibb.co/NgK2x9mM/P90223918-weiter-der-revolutionaere-bmw-i3-jetzt-mit-deutlich-mehr-reichweite-07-2016-600px.jpg) | ![Audi Ad Reproduction](https://i.ibb.co/4nz1PBHK/Download-1.jpg) | ![Generated Result](https://i.ibb.co/DDbvq0D3/ae60a6cf-8a62-4b9f-9889-881691d1b10c.png) |
+| **Original BMW Ad** | **Audi Reproduction** | **AI Generated Result** | 
 
 ---
 
