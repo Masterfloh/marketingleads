@@ -46,7 +46,7 @@ Reproduce this ad using the attached Audi product image. Set the headline to "Pr
 
 ![Original BMW Ad](https://i.ibb.co/NgK2x9mM/P90223918-weiter-der-revolutionaere-bmw-i3-jetzt-mit-deutlich-mehr-reichweite-07-2016-600px.jpg=400x200)  
 ![Audi Ad Reproduction](https://i.ibb.co/4nz1PBHK/Download-1.jpg=400x200)  
-![Ergebnis](https://i.ibb.co/4nz1PBHK/Download-1.jpg=400x200)  
+![Ergebnis](https://i.ibb.co/DDbvq0D3/ae60a6cf-8a62-4b9f-9889-881691d1b10c.png)  
 
 ---
 
@@ -91,8 +91,15 @@ Create a photorealistic version of the attached product mockup for [Product Name
 - Füge Referenzbilder hinzu, um präzisere Ergebnisse zu erhalten.  
 - Nutze Iterationen wie "Make the colors more vibrant" oder "Adjust the lighting to be softer".  
 
-# Bitte benutzt einfach euer Gehirn. ChatGPT's image generation ist so ein gutes tool nur damit es von viele ignoriert wird. FAlls ihr fragen habt schreibt mir gerne eine Nachicht auf Discord
+# Bitte benutzt einfach euer Gehirn. ChatGPT's image generation ist so ein gutes tool nur damit es von viele ignoriert wird. Falls ihr fragen habt schreibt mir gerne eine Nachicht auf Discord
+
+---
+
 # Wenn euch die Repo gefallen hat dann gerne einen Stern hinterlassen
-# Ich hab ausserdem noch andere tolle repos wie https://github.com/Masterfloh/Unlocking-The-Potential-Of-ChatGPT/blob/main/Unlocking_the_Potential_of_ChatGPT_21.pdf
+
+---
+
+# Ich hab ausserdem noch andere tolle repos wie 
+https://github.com/Masterfloh/Unlocking-The-Potential-Of-ChatGPT/blob/main/Unlocking_the_Potential_of_ChatGPT_21.pdf
 
 ---
