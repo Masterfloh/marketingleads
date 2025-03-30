@@ -49,6 +49,8 @@ Reproduce this ad using the attached Audi product image. Set the headline to "Pr
 | ![Original BMW Ad](https://i.ibb.co/NgK2x9mM/P90223918-weiter-der-revolutionaere-bmw-i3-jetzt-mit-deutlich-mehr-reichweite-07-2016-600px.jpg) | ![Audi Ad Reproduction](https://i.ibb.co/4nz1PBHK/Download-1.jpg) | ![Generated Result](https://i.ibb.co/DDbvq0D3/ae60a6cf-8a62-4b9f-9889-881691d1b10c.png) |
 | **Original BMW Ad** | **Audi Reproduction** | **AI Generated Result** | 
 
+Was ChatGPT angeht hat es mit exact diesem Beispiel leider nicht so Gekocht aber es ist 1:51 an einem Sonntag und ich mach das jetzt nicht nochmal
+
 ---
 
 ## [3] Werbeanzeigen mit mehreren Prompts erstellen  
