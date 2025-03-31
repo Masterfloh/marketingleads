@@ -57,6 +57,17 @@ Was ChatGPT angeht hat es mit exact diesem Beispiel leider nicht so Gekocht aber
 - **Hinweis:** Die genaue Umsetzung hängt stark von deinem Ziel ab.  
 - **Tipp:** ChatGPT ist gut darin, Fehler auszubessern und sich anzupassen. Investiere etwas Zeit, um den Output zu optimieren.  
 
+| | | |
+|-|-|-|
+| ![Original Prompt](https://i.ibb.co/S7xjWxFb/98d36399-df4b-46aa-a1e4-9182c62228a4.png) | ![First Revision](https://i.ibb.co/NnHrjn48/71c8323d-8d72-4ab7-bd08-a3780a783738.png) | ![Final Revision](PLACEHOLDER) |
+| **Original Version**<br>Luxury bathroom setting<br>Labeled product<br>Natural smile | **Studio Version**<br>Clean professional look<br>Label-free bottle<br>Direct gaze | **Editorial Version**<br>Moody lighting<br>Branded "LUMIN" packaging<br>Casual outfit |
+| *Result* | *Result* | *Add Final Image Here* |
+
+**Prompt Evolution:**
+1. **Original:** Luxury bathroom setting with natural demonstration
+2. **First Revision:** Studio shot with professional styling
+3. **Final Revision:** Editorial aesthetic with brand packaging
+
 ---
 
 ## [4] Mockups zur richtigen Werbung  
